@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1 className="text-success">Welcom Sandali</h1>
+      <h1 className="text-success">Welcom Sandali Nethmini</h1>
     </div>
   );
 }
